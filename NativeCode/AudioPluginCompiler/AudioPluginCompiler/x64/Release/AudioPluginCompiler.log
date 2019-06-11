@@ -1,0 +1,9 @@
+﻿  testString.cpp
+d:\ucsb_courses\mat240a\mat240a_finalproject\nativecode\teststring.cpp(262): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library D:\UCSB_Courses\MAT240A\MAT240A_FinalProject\NativeCode\AudioPluginCompiler\..\..\Assets\Plugins\x86_64\AudioPluginCompiler.lib and object D:\UCSB_Courses\MAT240A\MAT240A_FinalProject\NativeCode\AudioPluginCompiler\..\..\Assets\Plugins\x86_64\AudioPluginCompiler.exp
+  Generating code
+  0 of 144 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AudioPluginCompiler.vcxproj -> D:\UCSB_Courses\MAT240A\MAT240A_FinalProject\NativeCode\AudioPluginCompiler\..\..\Assets\Plugins\x86_64\AudioPluginCompiler.dll
